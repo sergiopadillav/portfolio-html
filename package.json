@@ -1,0 +1,8 @@
+{
+  "name": "portfolio-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sergiopadillav/portfolio-html.git",
+  "author": "Sergio Padilla Villaseñor <sergiolpv97@gmail.com>",
+  "license": "MIT"
+}
